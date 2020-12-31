@@ -1,6 +1,7 @@
 import React from "react";
 import { Route, Redirect, Router, Switch } from "react-router-dom";
 import { createBrowserHistory } from "history";
+import Video from "./Video";
 
 import "./App.scss";
 import Tabs from "./Tabs";
@@ -15,6 +16,7 @@ function App(props: Props) {
       <Router history={history}>
         <Switch>
           <Route path="/" exact={true} render={() => <Tabs />} />
+          <Route path="/video" exact={true} render={() => <Video />} />
           <Redirect from={"*"} to="/"></Redirect>
         </Switch>
       </Router>

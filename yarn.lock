@@ -9333,6 +9333,11 @@ react-overlays@^3.1.2:
     uncontrollable "^7.0.0"
     warning "^4.0.3"
 
+react-picture-in-picture@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-picture-in-picture/-/react-picture-in-picture-1.0.0.tgz#d0cf672b587bc0b40b7ca8acec3b0b0cb6be713d"
+  integrity sha512-7FnXc9lRo9eHbvZitscsJCqXlEDtYZTjHMKoOI+W1qoN77ll3SfcJzoxk2DcdzuNG8R+KgQbZZamHm4T4Nr/dw==
+
 react-redux@^7.2.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-7.2.0.tgz#f970f62192b3981642fec46fd0db18a074fe879d"
@@ -9442,6 +9447,11 @@ react-transition-group@^4.0.0:
     dom-helpers "^5.0.1"
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
+
+react-use-pip@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/react-use-pip/-/react-use-pip-1.4.1.tgz#c2c3bb2a59be0655cecc01116b1164209d28523d"
+  integrity sha512-BNe/5LNyHayHCxEF0Cbu/bRNs1T64twYiBPz8q+U/C/lpbkB/RHhpLKODWIKNn0TDezBCQT2bOxyN/AH8DEWAQ==
 
 react@^16.13.1:
   version "16.13.1"
